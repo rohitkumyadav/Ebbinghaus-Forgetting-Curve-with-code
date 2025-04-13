@@ -1,0 +1,358 @@
+Subject / Topic,Subfield,Complexity (1-10),Relevance (1-10),
+Arithmetic,Basic Math,3,9,
+Algebra,Pure Math,6,8,
+Advanced Algebra,Pure Math,7,7,
+Abstract Algebra,Pure Math,9,6,
+Geometry,Pure Math,5,8,
+Euclidean Geometry,Pure Math,6,7,
+Non-Euclidean Geometry,Pure Math,9,6,
+Trigonometry,Applied Math,6,7,
+Linear Algebra,Applied Math,8,9,
+Matrix Algebra,Applied Math,8,9,
+Graph Theory,Discrete Math,8,8,
+Combinatorics,Discrete Math,7,8,
+Game Theory,Discrete Math,7,9,
+Calculus (Differential & Integral),Applied Math,9,9,
+Multivariable Calculus,Applied Math,9,8,
+Probability & Statistics,Applied Math,8,10,
+Bayesian Statistics,Applied Math,9,10,
+Number Theory,Pure Math,7,7,
+Set Theory,Pure Math,6,7,
+Classical Mechanics,Physics,8,8,
+Newtonian Mechanics,Physics,8,8,
+Lagrangian Mechanics,Physics,9,7,
+Quantum Mechanics,Physics,10,7,
+Quantum Field Theory,Physics,10,6,
+String Theory,Physics,10,5,
+Thermodynamics,Physics,9,7,
+Statistical Mechanics,Physics,9,7,
+Electromagnetism,Physics,8,8,
+Optics,Physics,7,8,
+Relativity (General & Special),Physics,10,6,
+Plasma Physics,Physics,9,7,
+Organic Chemistry,Chemistry,8,7,
+Inorganic Chemistry,Chemistry,7,7,
+Physical Chemistry,Chemistry,8,8,
+Analytical Chemistry,Chemistry,7,9,
+Biochemistry,Chemistry,8,9,
+Polymer Chemistry,Chemistry,7,7,
+Electrochemistry,Chemistry,8,8,
+Genetics,Biology,8,9,
+Molecular Biology,Biology,9,8,
+Microbiology,Biology,7,8,
+Human Anatomy,Biology,8,9,
+Evolutionary Biology,Biology,7,7,
+Neuroscience,Biology,9,9,
+Botany,Biology,6,7,
+Zoology,Biology,6,7,
+Ecology,Biology,7,8,
+Marine Biology,Biology,7,7,
+Virology,Biology,9,9,
+Epidemiology,Biology,9,9,
+Programming Fundamentals,CS,6,10,
+Data Structures & Algorithms,CS,8,10,
+Machine Learning,AI,9,10,
+Deep Learning,AI,9,10,
+Artificial Intelligence,AI,9,10,
+Natural Language Processing (NLP),AI,9,9,
+Computer Vision,AI,9,9,
+Reinforcement Learning,AI,9,8,
+Quantum Computing,CS,10,7,
+Cybersecurity,CS,8,9,
+Ethical Hacking,CS,8,8,
+Blockchain Technology,CS,7,9,
+Cloud Computing,CS,7,9,
+Software Engineering,CS,7,9,
+Operating Systems,CS,7,8,
+Distributed Systems,CS,9,8,
+Computer Networks,CS,7,8,
+Database Management Systems (DBMS),CS,7,9,
+Mechanical Engineering,Engineering,8,8,
+Electrical Engineering,Engineering,8,8,
+Civil Engineering,Engineering,7,8,
+Aerospace Engineering,Engineering,9,7,
+Robotics,Engineering,9,9,
+Mechatronics,Engineering,8,8,
+Signal Processing,Engineering,8,8,
+Quadratic Equations,Pure Math,5,9,
+Polynomials,Pure Math,6,8,
+Factorization,Pure Math,5,8,
+Binomial Theorem,Pure Math,7,7,
+Matrices & Determinants,Pure Math,8,9,
+Limits & Continuity,Applied Math,7,8,
+Differentiation,Applied Math,8,9,
+Integration,Applied Math,8,9,
+Partial Derivatives,Applied Math,9,8,
+Laplace Transforms,Applied Math,9,7,
+Euclidean Postulates,Pure Math,4,8,
+Coordinate Geometry,Pure Math,6,9,
+Conic Sections,Pure Math,7,8,
+Trigonometric Identities,Pure Math,6,8,
+"Sine, Cosine, Tangent Functions",Applied Math,5,9,
+Euler’s Formula,Applied Math,8,7,
+Prime Numbers,Pure Math,5,8,
+Modular Arithmetic,Pure Math,7,7,
+Fermat’s Theorem,Pure Math,8,6,
+Boolean Algebra,CS & Math,6,9,
+Pigeonhole Principle,CS & Math,6,7,
+"Mean, Median, Mode",Applied Math,5,10,
+Standard Deviation,Applied Math,6,9,
+Bayesian Inference,Applied Math,9,10,
+Newton’s Laws of Motion,Classical Physics,5,10,
+Conservation of Energy,Classical Physics,6,9,
+"Work, Power, and Energy",Classical Physics,6,8,
+Projectile Motion,Classical Physics,7,9,
+First & Second Laws,Physics,7,8,
+Carnot Cycle,Physics,8,7,
+Entropy,Physics,9,8,
+Wave-Particle Duality,Modern Physics,9,7,
+Schrödinger Equation,Modern Physics,10,6,
+Heisenberg Uncertainty Principle,Modern Physics,10,7,
+Coulomb’s Law,Physics,6,9,
+Maxwell’s Equations,Physics,9,8,
+Reflection & Refraction,Physics,6,9,
+Snell’s Law,Physics,6,8,
+Time Dilation,Modern Physics,10,6,
+Organic Chemistry,Chemistry,Nomenclature,6,8
+Organic Chemistry,Chemistry,Alcohols & Ketones,7,8
+Organic Chemistry,Chemistry,Benzene & Aromaticity,8,7
+Inorganic Chemistry,Chemistry,Periodic Table Trends,6,9
+Inorganic Chemistry,Chemistry,Coordination Compounds,8,7
+Physical Chemistry,Chemistry,Chemical Equilibrium,7,8
+Biochemistry,Chemistry,Enzyme Kinetics,8,9
+Genetics,Biology,Mendelian Inheritance,7,9
+Genetics,Biology,DNA Replication,8,9
+Molecular Biology,Biology,Transcription & Translation,8,8
+Neuroscience,Biology,Synaptic Transmission,9,8
+Programming,CS,Object-Oriented Programming,7,10
+Programming,CS,Recursion,8,9
+DSA,CS,Sorting Algorithms,7,9
+DSA,CS,Graph Algorithms,8,9
+Machine Learning,AI,Supervised Learning,8,10
+Machine Learning,AI,Neural Networks,9,10
+AI,AI,Reinforcement Learning,9,8
+Mechanical,Engineering,Thermodynamics,8,8
+Electrical,Engineering,Circuit Analysis,8,8
+Civil,Engineering,Concrete Structures,7,8
+Algebra,Pure Math,Vieta’s Formulas,7,7
+Algebra,Pure Math,Roots of Unity,8,7
+Algebra,Pure Math,Complex Numbers,7,8
+Algebra,Pure Math,Group Theory Basics,8,7
+Algebra,Pure Math,Symmetric Polynomials,8,6
+Calculus,Applied Math,Taylor & Maclaurin Series,8,7
+Calculus,Applied Math,Jacobians & Hessians,9,6
+Calculus,Applied Math,Stokes' Theorem,9,6
+Geometry,Pure Math,Non-Euclidean Geometry,9,5
+Trigonometry,Applied Math,Hyperbolic Functions,7,7
+Number Theory,Pure Math,Euler’s Totient Function,8,7
+Number Theory,Pure Math,Continued Fractions,8,6
+Discrete Math,CS & Math,Graph Theory,7,8
+Discrete Math,CS & Math,Ramsey Theory,8,6
+Statistics,Applied Math,Poisson Distribution,8,8
+Statistics,Applied Math,Markov Chains,9,7
+Mechanics,Classical Physics,Lagrangian Mechanics,9,6
+Mechanics,Classical Physics,Hamiltonian Mechanics,10,5
+Thermodynamics,Physics,Gibbs Free Energy,9,6
+Thermodynamics,Physics,Boltzmann Distribution,9,6
+Quantum Mechanics,Modern Physics,Quantum Tunneling,10,5
+Quantum Mechanics,Modern Physics,Feynman Diagrams,10,5
+Electromagnetism,Physics,Faraday’s Law,8,7
+Optics,Physics,Huygens’ Principle,7,7
+Relativity,Modern Physics,Lorentz Transformations,10,5
+Relativity,Modern Physics,Black Hole Thermodynamics,10,4
+Organic Chemistry,Chemistry,SN1 & SN2 Reactions,8,8
+Organic Chemistry,Chemistry,Aldol Condensation,8,7
+Organic Chemistry,Chemistry,Pericyclic Reactions,9,6
+Inorganic Chemistry,Chemistry,Crystal Field Theory,9,6
+Inorganic Chemistry,Chemistry,Ligand Substitution Reactions,9,5
+Physical Chemistry,Chemistry,Schrödinger Equation for Molecules,10,5
+Biochemistry,Chemistry,Electron Transport Chain,9,8
+Genetics,Biology,Epigenetics,9,7
+Genetics,Biology,CRISPR Technology,9,8
+Molecular Biology,Biology,Polymerase Chain Reaction (PCR),9,8
+Neuroscience,Biology,Neural Plasticity,10,7
+Neuroscience,Biology,Dopaminergic Pathways,10,7
+Neuroscience,Biology,Brain-Computer Interfaces (BCI),10,6
+Physiology,Biology,Endocrine System Regulation,9,8
+Physiology,Biology,Muscle Fiber Types,8,7
+Programming,CS,Lambda Calculus,8,7
+Programming,CS,Curry-Howard Isomorphism,9,5
+DSA,CS,Dynamic Programming,9,9
+DSA,CS,Monte Carlo Tree Search,9,6
+Machine Learning,AI,Transfer Learning,9,9
+Machine Learning,AI,Variational Autoencoders,10,6
+AI,AI,Swarm Intelligence,9,6
+AI,AI,Generative Adversarial Networks (GANs),10,8
+Cybersecurity,CS,Zero-Knowledge Proofs,10,5
+Logic,Philosophy,Gödel’s Incompleteness Theorems,10,5
+Logic,Philosophy,Modal Logic,9,6
+Epistemology,Philosophy,Rationalism vs. Empiricism,8,7
+Metaphysics,Philosophy,Problem of Universals,9,5
+Psychology,Social Science,Cognitive Dissonance,8,8
+Psychology,Social Science,Operant Conditioning,7,9
+Psychology,Social Science,Big Five Personality Traits,8,8
+Economics,Social Science,Nash Equilibrium,9,7
+Economics,Social Science,Pareto Efficiency,8,7
+History,Social Science,Fall of the Roman Empire,7,6
+Mechanical,Engineering,Fluid Dynamics,9,8
+Mechanical,Engineering,Thermodynamic Cycles,9,7
+Electrical,Engineering,Kirchhoff’s Laws,8,9
+Electrical,Engineering,Fourier Analysis,9,7
+Civil,Engineering,Structural Load Analysis,8,8
+Aerospace,Engineering,Orbital Mechanics,10,6
+Topology,Mathematics,Homotopy Theory,10,5
+Topology,Mathematics,Knot Theory,9,5
+Functional Analysis,Mathematics,Banach & Hilbert Spaces,10,5
+Functional Analysis,Mathematics,Spectral Theorem,10,5
+Chaos Theory,Mathematics,Lyapunov Exponents,10,4
+Chaos Theory,Mathematics,Strange Attractors,10,4
+Set Theory,Mathematics,Large Cardinals,9,4
+Algebraic Geometry,Mathematics,Elliptic Curves,10,4
+Quantum Information,Physics,Quantum Entanglement,10,6
+Quantum Information,Physics,No-Cloning Theorem,10,5
+Condensed Matter,Physics,Bose-Einstein Condensates,9,5
+Condensed Matter,Physics,Quantum Hall Effect,10,5
+Particle Physics,Physics,Higgs Boson,10,5
+Particle Physics,Physics,Supersymmetry,10,4
+Plasma Physics,Physics,Tokamak Fusion Reactors,10,5
+Quantum Chemistry,Chemistry,Hartree-Fock Method,10,5
+Quantum Chemistry,Chemistry,Density Functional Theory (DFT),10,5
+Organic Synthesis,Chemistry,Asymmetric Catalysis,9,5
+Organic Synthesis,Chemistry,Total Synthesis of Natural Products,10,4
+Supramolecular Chemistry,Chemistry,Host-Guest Chemistry,9,5
+Cognitive Neuroscience,Psychology,Mirror Neurons,9,7
+Cognitive Neuroscience,Psychology,Default Mode Network,9,6
+Computational Neuroscience,Psychology,Neural Oscillations,10,5
+Behavioral Neuroscience,Psychology,Fear Conditioning,8,6
+Deep Learning,AI,Capsule Networks,10,6
+Deep Learning,AI,Self-Supervised Learning,9,6
+Reinforcement Learning,AI,Multi-Agent Systems,10,5
+Computer Vision,AI,Neural Radiance Fields (NeRF),10,5
+Theoretical CS,CS,Computational Complexity Classes,10,5
+Theoretical CS,CS,Quantum Computing Algorithms,10,5
+Blockchain,CS,Zero-Knowledge Rollups,9,6
+Blockchain,CS,Byzantine Fault Tolerance,10,5
+Political Science,Social Science,Game Theory in Politics,9,6
+Political Science,Social Science,Realist vs. Liberal Theories,8,6
+Economics,Social Science,Mechanism Design Theory,10,5
+Sociology,Social Science,Social Network Analysis,9,6
+Genetics,Medicine,Epigenetics & Gene Silencing,9,6
+Genetics,Medicine,CRISPR Gene Editing,10,6
+Neurobiology,Medicine,Synaptic Plasticity,9,7
+Neurobiology,Medicine,Blood-Brain Barrier,10,6
+Immunology,Medicine,Cytokine Storms,9,7
+Immunology,Medicine,T-Cell Receptor Signaling,10,6
+Oncology,Medicine,Tumor Microenvironment,9,6
+Oncology,Medicine,Immunotherapy & CAR-T Cells,10,7
+Pharmacology,Medicine,Drug-Drug Interactions,8,7
+Virology,Medicine,RNA Viruses & Mutations,9,6
+Clinical Psychology,Psychology,Cognitive Behavioral Therapy (CBT),8,8
+Clinical Psychology,Psychology,PTSD & Memory Suppression,9,7
+Neuroscience,Psychology,Dopamine & Reward System,9,8
+Neuroscience,Psychology,Gut-Brain Axis,9,7
+Psychiatry,Psychology,Schizophrenia Neural Mechanisms,10,6
+Sleep Science,Psychology,REM Sleep & Memory Retention,9,8
+Sleep Science,Psychology,Circadian Rhythms & Melatonin,9,7
+Stress Research,Psychology,Cortisol & Long-Term Health,9,7
+Aerospace Engineering,Engineering,Scramjet Propulsion,10,5
+Aerospace Engineering,Engineering,Aerodynamics of Supersonic Flight,9,6
+Robotics,Engineering,Soft Robotics,9,6
+Robotics,Engineering,Bioinspired Robotics,9,6
+Civil Engineering,Engineering,Smart Cities & AI Integration,9,7
+Electrical Engineering,Engineering,Quantum Dot Solar Cells,10,5
+Climate Science,Earth Science,Cloud Seeding & Weather Modification,9,6
+Climate Science,Earth Science,Ice Sheet Melting & Sea Level Rise,10,6
+Oceanography,Earth Science,Deep-Sea Hydrothermal Vents,9,5
+Ecology,Environmental Science,Biodiversity & Ecosystem Collapse,10,6
+Geology,Earth Science,Supervolcanoes & Extinction Events,10,6
+Renewable Energy,Environmental Science,Hydrogen Fuel Cells,9,6
+Legal Theory,Law,AI & Criminal Justice,9,6
+Legal Theory,Law,International Human Rights Law,9,6
+Ethics,Philosophy,Moral Relativism vs. Moral Absolutism,8,7
+Metaphysics,Philosophy,Simulation Hypothesis,9,6
+Political Theory,Philosophy,Theories of Justice,9,6
+Finance,Economics,Behavioral Economics & Decision Making,9,6
+Finance,Economics,Cryptocurrency Market Fluctuations,9,6
+Business,Economics,Supply Chain Disruptions & AI,9,6
+Business,Economics,AI in Marketing & Consumer Behavior,9,7
+Cognitive Science,Learning,Neural Correlates of Memory,9,7
+Cognitive Science,Learning,Role of Hippocampus in Long-Term Memory,9,7
+Cognitive Science,Learning,Forgetting Curve & Memory Decay,9,8
+Educational Psychology,Learning,Spaced Repetition & Retention,8,9
+Educational Psychology,Learning,Impact of AI on Learning Adaptation,8,8
+Neurolinguistics,Learning,Language Acquisition & Brain Plasticity,9,7
+Deep Learning,AI,Transformer Models & Large Language Models,10,9
+Deep Learning,AI,Federated Learning & Privacy-Preserving AI,10,8
+Computer Vision,AI,Zero-Shot Learning & Few-Shot Learning,10,7
+Reinforcement Learning,AI,AI in Robotics & Self-Learning Systems,10,7
+NLP,AI,Emotion Detection from Text,9,8
+AI Ethics,AI,AI Bias & Fairness in Decision Making,9,7
+Quantum Mechanics,Physics,Quantum Entanglement & Information Theory,10,6
+Astrophysics,Space,Black Hole Thermodynamics,10,6
+Space Science,Space,Interstellar Travel & Warp Drives,9,5
+Space Science,Space,Extraterrestrial Habitability,9,6
+High Energy Physics,Physics,Particle Colliders & Dark Matter Experiments,10,5
+Optics,Physics,Holography & Quantum Optics,9,6
+Microbiology,Biology,Extremophiles & Life in Harsh Environments,9,6
+Microbiology,Biology,Antibiotic Resistance Mechanisms,10,7
+Genetic Engineering,Biotech,Synthetic Biology & Bioprinting,10,6
+Bioinformatics,Biotech,Protein Structure Prediction,9,7
+Virology,Biotech,Emerging Viral Threats & Pandemic Predictions,10,7
+Game Development,Computing,AI-Generated Game Levels,9,6
+Game Development,Computing,Procedural Content Generation,9,6
+Virtual Reality,Computing,Haptic Feedback & Immersive Experience,9,7
+UX/UI,Computing,Eye-Tracking in User Interfaces,8,7
+Blockchain,Tech,Smart Contracts & Decentralized Apps,9,7
+Cybersecurity,Tech,Quantum Cryptography,10,6
+Nanotechnology,Tech,Nanorobotics in Medicine,10,6
+3D Printing,Tech,Bioprinting Human Organs,10,6
+Internet of Things,Tech,Edge Computing & Real-Time Analytics,9,7
+Number Theory,Math,Prime Number Distribution,10,5
+Cryptography,Math,Post-Quantum Cryptography,10,6
+Chaos Theory,Math,Fractals & Complex Systems,10,6
+Topology,Math,Applications in AI & Physics,10,5
+Climate Science,Environment,Carbon Sequestration Techniques,9,8
+Ecology,Environment,Urban Biodiversity & Ecosystem Services,8,7
+Renewable Energy,Sustainability,Perovskite Solar Cells & Efficiency,10,8
+Waste Management,Sustainability,Plastic Decomposition using Microbes,9,8
+Agriculture,Sustainability,AI in Precision Farming,9,9
+Neuroscience,Medicine,Brain-Computer Interfaces (BCI),10,8
+Pharmacology,Medicine,AI in Drug Discovery,10,9
+Genetics,Medicine,CRISPR Gene Editing & Ethics,10,8
+Immunology,Medicine,Personalized Vaccines & mRNA Tech,10,8
+Mental Health,Psychology,AI-Based Depression Detection,9,9
+AI Ethics,AI,Explainability in Deep Learning (XAI),10,8
+AI Hardware,AI,Neuromorphic Computing & AI Chips,10,7
+Robotics,AI,Soft Robotics & Bio-Inspired Designs,10,8
+AI in Healthcare,AI,AI-Powered Disease Diagnosis,10,9
+NLP,AI,AI for Low-Resource Languages,9,7
+Astrobiology,Space,Life in Subsurface Oceans of Europa,9,6
+Rocket Science,Space,Plasma Propulsion & Ion Thrusters,10,7
+Space Mining,Space,Extracting Resources from Asteroids,9,7
+Cosmology,Space,Dark Energy & Expanding Universe,10,6
+Exoplanet Science,Space,AI in Exoplanet Discovery,9,7
+Blockchain,FinTech,Zero-Knowledge Proofs & Privacy Coins,10,7
+Cryptocurrency,FinTech,Stablecoins & Decentralized Finance (DeFi),9,8
+Banking,FinTech,AI in Fraud Detection,9,9
+Market Prediction,FinTech,Quantum Computing for Finance,10,7
+Insurance,FinTech,AI-Based Risk Assessment,9,8
+Synthetic Biology,Biotech,Bioprinting Synthetic Organs,10,7
+Genetics,Biotech,Gene Therapy & Disease Prevention,10,8
+Biochemistry,Biotech,Protein Engineering & Drug Design,10,7
+Microbiology,Biotech,Engineered Bacteria for Pollution Cleanup,9,8
+Epigenetics,Biotech,AI in Epigenome Analysis,9,7
+Cybersecurity,Tech,AI in Threat Detection,9,9
+Cryptography,Tech,Homomorphic Encryption,10,7
+Network Security,Tech,Quantum-Resistant Cryptography,10,7
+Ethical Hacking,Tech,AI-Powered Penetration Testing,9,8
+Digital Forensics,Tech,Blockchain for Secure Identity Verification,9,8
+Virtual Reality,Tech,AI-Driven Realistic NPCs,9,7
+Augmented Reality,Tech,AR for Remote Learning,9,8
+Metaverse,Tech,Digital Avatars & AI Personality Models,9,7
+HCI,Tech,Eye-Tracking in VR Systems,9,7
+Gaming,Tech,Generative AI for Procedural Game Worlds,9,7
+Nanotechnology,Tech,Self-Healing Materials,10,7
+3D Printing,Tech,AI-Driven Additive Manufacturing,10,7
+Edge Computing,Tech,AI on IoT Devices,9,8
+Smart Cities,Tech,AI-Based Traffic Management,9,8
+Wearable Tech,Tech,AI in Health Monitoring Devices,9,8
