@@ -102,6 +102,21 @@ cd memory-retention-xgboost
 
 ---
 
+## 🌐 Live Deployment
+
+🚀 **Try the interactive memory retention predictor now:**  
+👉 [Streamlit App – EbbinghausMind](https://ebbinghausmind.streamlit.app/)
+
+This deployment allows users to:
+- Input behavioral factors like sleep, stress, and learning method
+- Predict memory retention in real-time
+- Explore SHAP-based feature impact visually
+
+Built with `Streamlit`, powered by `XGBoost + SHAP` ⚡
+
+---
+
+
 ## 🔬 Methodology Highlights
 
 - **Data Simulation**: Enriched Ebbinghaus's curve with 10k behavioral samples  
