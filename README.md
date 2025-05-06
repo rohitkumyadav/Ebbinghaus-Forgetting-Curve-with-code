@@ -59,6 +59,8 @@ This research:
     ├── retention_metrics.csv       # Historical model metrics
     └── baseline_curve.csv          # Original Ebbinghaus predictions
 
+```
+
 # Define the expanded markdown content with proper formatting and tables
 
 expanded_sections = """
