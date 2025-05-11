@@ -51,7 +51,6 @@ This research:
 ├── memory_retention_model_v1.1.pkl # Optimized model with best hyperparameters
 ├── model_deployment.py             # Script to deploy model (e.g., Streamlit/Flask ready)
 ├── model_training.ipynb            # Complete ML pipeline with training & tuning
-├── titanic-using-pipeline.ipynb    # Template notebook for pipeline architecture
 ├── retention_comparison.pdf/png    # Visual comparison between models
 ├── data_report.html                # EDA report (auto-generated)
 ├── README.md                       # You're here!
